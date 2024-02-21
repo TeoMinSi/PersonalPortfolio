@@ -13,10 +13,10 @@ import Error404 from "../pages/errors/error404/Error";
 export default class Main extends Component {
   render() {
     return (
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/PersonalPortfolio">
         <Switch>
           <Route
-            path="/"
+            path="/PersonalPortfolio"
             exact
             render={(props) =>
               settings.isSplash ? (
