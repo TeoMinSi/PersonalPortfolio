@@ -224,7 +224,7 @@ const experience = {
           duration: "Jul 2021 - Mar 2024",
           location: "Singapore",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I worked on a range of new data products of varying roles, focusing on design and prototyping, UX engineering, and research. The projects range from B2B products, API products to white-label consumer products. As a UX designer, I was also deeply involved in ensuring the optimal user experience of the product, even for products with no interface. I was also an active contributor to internal tools and efficiencies, serving as a Subject Matter Expert on certain topics like UX metrics tools.",
           color: "#0879bf",
         },
         {
@@ -268,7 +268,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "profile-pic.svg",
     description:
-      "Feel fee to connect with me either through email or LinkedIn.",
+      "Feel free to connect with me either through email or LinkedIn.",
   },
 };
 
