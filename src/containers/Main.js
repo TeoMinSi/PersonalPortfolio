@@ -15,13 +15,13 @@ export default class Main extends Component {
     return (
       <BrowserRouter basename="/">
         <Switch>
-          {/* <Route
+          <Route
             path="/"
             exact
             render={(props) => <Home {...props} theme={this.props.theme} />}
-          /> */}
+          />
           <Route
-            path="/PersonalPortfolio"
+            path="/PersonalPortfolio/"
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
