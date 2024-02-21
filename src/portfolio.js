@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Teo Min Si's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://teominsi.github.io/",
   },
 };
 
