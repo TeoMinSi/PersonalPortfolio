@@ -15,8 +15,8 @@ export default class Main extends Component {
     return (
       <BrowserRouter basename="/">
         <Switch>
-          {/* <Route
-            path="/"
+          <Route
+            path="/PersonalPortfolio"
             exact
             render={(props) =>
               settings.isSplash ? (
@@ -25,9 +25,9 @@ export default class Main extends Component {
                 <Home {...props} theme={this.props.theme} />
               )
             }
-          /> */}
+          />
           <Route
-            path="/"
+            path="/home"
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
