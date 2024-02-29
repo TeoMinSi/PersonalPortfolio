@@ -247,7 +247,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects cover a range of different skills involved, namely UX Engineering, UX Design and Research. I have also worked on Data Visualizations and dashboards in several projects.",
   avatar_image_path: "projects_image.svg",
 };
 
