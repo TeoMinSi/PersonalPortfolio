@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A passionate individual in data analytics, visualisation and UI/UX.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/166gQXeexN8hvGE2YZDfp5p55OHO1nJCW/view?usp=sharing",
   portfolio_repository: "https://www.linkedin.com/in/teo-min-si-378a51174/",
   githubProfile: "https://github.com/TeoMinSi",
 };
