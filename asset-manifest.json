@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/PersonalPortfolio/static/css/main.270ba286.css",
-    "main.js": "/PersonalPortfolio/static/js/main.739c6e41.js",
-    "static/media/profile-pic.svg": "/PersonalPortfolio/static/media/profile-pic.35b69d27ac6e80a35763.svg",
+    "main.js": "/PersonalPortfolio/static/js/main.40a84ee8.js",
     "static/media/portfolio.gif": "/PersonalPortfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
+    "static/media/profile-pic.png": "/PersonalPortfolio/static/media/profile-pic.5488ed70c140bdf1b44b.png",
     "static/media/fa-solid-900.svg": "/PersonalPortfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/PersonalPortfolio/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/tiktok_logo.png": "/PersonalPortfolio/static/media/tiktok_logo.bf41765c122d4b0f3fee.png",
@@ -25,8 +25,9 @@
     "static/media/contactMail.png": "/PersonalPortfolio/static/media/contactMail.d4c9ac42fba95158a55c.png",
     "static/media/fa-solid-900.woff": "/PersonalPortfolio/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/PersonalPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/st-engineering-logo.jpg": "/PersonalPortfolio/static/media/st-engineering-logo.e6a830a48a307dd4cfd8.jpg",
-    "static/media/st-engineering-logo.svg": "/PersonalPortfolio/static/media/st-engineering-logo.e6a830a48a307dd4cfd8.svg",
+    "static/media/st-engineering-logo.jpg": "/PersonalPortfolio/static/media/st-engineering-logo.6ce03cba2b7287357962.jpg",
+    "static/media/st-engineering-logo.svg": "/PersonalPortfolio/static/media/st-engineering-logo.6ce03cba2b7287357962.svg",
+    "static/media/DesignTools.svg": "/PersonalPortfolio/static/media/DesignTools.ac0cfb3ce3658d3c76be.svg",
     "static/media/ibm_logo.png": "/PersonalPortfolio/static/media/ibm_logo.8204bba7daa4eedf644b.png",
     "static/media/fa-brands-400.woff": "/PersonalPortfolio/static/media/fa-brands-400.dc957891d535aa198135.woff",
     "static/media/codeInLogo.png": "/PersonalPortfolio/static/media/codeInLogo.be1b6b9bacd5f2fb1c7e.png",
@@ -44,7 +45,7 @@
     "static/media/gcp_logo.png": "/PersonalPortfolio/static/media/gcp_logo.63bb0649c9716d110b14.png",
     "static/media/fa-regular-400.eot": "/PersonalPortfolio/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/PersonalPortfolio/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
-    "static/media/feelingProud.svg": "/PersonalPortfolio/static/media/feelingProud.d93ec8e37541fc4950b9.svg",
+    "static/media/feelingProud.svg": "/PersonalPortfolio/static/media/feelingProud.fbf743724a5b1c28e2f3.svg",
     "static/media/legato_logo.png": "/PersonalPortfolio/static/media/legato_logo.227e72c7979187840ba3.png",
     "static/media/developerActivity.svg": "/PersonalPortfolio/static/media/developerActivity.967f31dad3158d5be07b.svg",
     "static/media/github_logo.png": "/PersonalPortfolio/static/media/github_logo.15e591a7397b9ef45656.png",
@@ -65,14 +66,14 @@
     "static/media/education.svg": "/PersonalPortfolio/static/media/education.d5cc42f042227db12468.svg",
     "index.html": "/PersonalPortfolio/index.html",
     "static/media/googleAssistant.svg": "/PersonalPortfolio/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
-    "static/media/Mastercard-logo.svg": "/PersonalPortfolio/static/media/Mastercard-logo.3d83ca0bf2cad7ffe702.svg",
+    "static/media/Mastercard-logo.svg": "/PersonalPortfolio/static/media/Mastercard-logo.7cc5062a3f34bbbdaaf0.svg",
     "static/media/talksCardBackAlt.svg": "/PersonalPortfolio/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/PersonalPortfolio/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.270ba286.css.map": "/PersonalPortfolio/static/css/main.270ba286.css.map",
-    "main.739c6e41.js.map": "/PersonalPortfolio/static/js/main.739c6e41.js.map"
+    "main.40a84ee8.js.map": "/PersonalPortfolio/static/js/main.40a84ee8.js.map"
   },
   "entrypoints": [
     "static/css/main.270ba286.css",
-    "static/js/main.739c6e41.js"
+    "static/js/main.40a84ee8.js"
   ]
 }
