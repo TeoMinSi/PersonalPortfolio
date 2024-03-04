@@ -3,8 +3,8 @@
     {
       "id": "1",
       "name": "Card Value Proposition Application",
-      "url": "https://drive.google.com/file/d/19vknzsceco9xAne60sWFOMAa-bAbz0PF/view?usp=sharing",
-      "description": "Skills involved: UX Design",
+      "url": "https://drive.google.com/file/d/1RSr8cFnleiOYR0Rj0bjSi6zBf7M8KmBi/view?usp=drive_link",
+      "description": "Skills involved: UX Design. Please contact me directly for access to the document.",
       "isFork": false
     },
     {
@@ -19,6 +19,20 @@
       "name": "Points Redemption Web Application",
       "url": "https://drive.google.com/file/d/14s6L-cfK25B53Q1V-JNOXNe4M4vHAmnx/view?usp=sharing",
       "description": "Skills involved: Research, Usability Testing",
+      "isFork": false
+    },
+    {
+      "id": "4",
+      "name": "Pytorch Annual Hackathon - First Place Winner",
+      "url": "https://devpost.com/software/fairwell-a-tool-to-bid-goodbye-to-unknown-ai-biasness",
+      "description": "Skills involved: Front End Development, Data Analytics.",
+      "isFork": false
+    },
+    {
+      "id": "5",
+      "name": "Amazon Sustainability Data Initiative Global Hackathon 2022 - Third Place Winner",
+      "url": "https://devpost.com/software/agri-able",
+      "description": "Skills involved: Front End Development, Data Analytics",
       "isFork": false
     }
   ]

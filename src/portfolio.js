@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A passionate individual in data analytics, visualisation and UI/UX.",
   resumeLink:
-    "https://drive.google.com/file/d/166gQXeexN8hvGE2YZDfp5p55OHO1nJCW/view?usp=sharing",
+    "https://drive.google.com/file/d/1e6AilXt7pWkNHoPl6Qb7OCCQO5KnoiOQ/view?usp=drive_link",
   portfolio_repository: "https://www.linkedin.com/in/teo-min-si-378a51174/",
   githubProfile: "https://github.com/TeoMinSi",
 };
@@ -266,7 +266,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile-pic.svg",
+    profile_image_path: "profile-pic.png",
     description:
       "Feel free to connect with me either through email or LinkedIn.",
   },
